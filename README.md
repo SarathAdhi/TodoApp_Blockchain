@@ -12,14 +12,11 @@
 
 # To deploy the smart contract
 
-<h4>
-
-1. truffle dashboard (Opens a Dashboard)
-2. truffle migrate --network dashboard 
-    - Confirm the transaction in the dashboard. 
-    - Copy the contract address from the terminal. 
-    - paste it in the `.env` file
-</h4>
+1. `truffle dashboard` (opens dashboard)
+2. `truffle migrate --network dashboard`
+   - Confirm the transaction in the dashboard.
+   - Copy the contract address from the terminal.
+   - paste it in the `.env` file
 
 ## Getting Started
 
